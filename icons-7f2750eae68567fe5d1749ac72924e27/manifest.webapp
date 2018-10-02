@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "gatsby-starter-hello-world",
+  "description": null,
+  "icons": {
+    "60": "//landing-page-gatsby/icons-7f2750eae68567fe5d1749ac72924e27/firefox_app_60x60.png",
+    "128": "//landing-page-gatsby/icons-7f2750eae68567fe5d1749ac72924e27/firefox_app_128x128.png",
+    "512": "//landing-page-gatsby/icons-7f2750eae68567fe5d1749ac72924e27/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}

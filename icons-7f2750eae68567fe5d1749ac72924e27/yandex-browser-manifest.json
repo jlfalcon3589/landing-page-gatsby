@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "api_version": 1,
+  "layout": {
+    "logo": "//landing-page-gatsby/icons-7f2750eae68567fe5d1749ac72924e27/yandex-browser-50x50.png",
+    "color": "#fff",
+    "show_title": true
+  }
+}
